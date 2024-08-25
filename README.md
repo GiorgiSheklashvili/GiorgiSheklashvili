@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
 <h3 align="center">Software Architect based in Tbilisi, Georgia</h3>
 
-🔭 I’m currently working on [Open Banking in Georgia](https://openfinance.ge/)
+🔭 I’m currently serving as a Software Architect of [Open Banking in Georgia](https://openfinance.ge/)
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
